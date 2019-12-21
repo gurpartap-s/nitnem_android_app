@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Nitnem</string>
+    <string-array name="list_items">
+    <item name="list_1">jpujI swihb</item>
+    <item name="list_2">jwpu swihb</item>
+    <item name="list_3">qÍ pRswid sv`Xy</item>
+    <item name="list_4">kibXobwc bynqI</item>
+    <item name="list_5">Anμdu swihb</item>
+    <item name="list_6">rhrwis swihb</item>
+    <item name="list_7">soihlw swihb</item>
+    <item name="list_8">Ardws</item>
+    </string-array>
+    <string name="japji_title">jpujI swihb</string>string>
+    <string name="jaap_title">jwpu swihb</string>string>
+    <string name="swaiye_title">qÍ pRswid sv`Xy</string>string>
+    <string name="chaupai_title">kibXobwc bynqI</string>string>
+    <string name="anand_title">Anμdu swihb</string>string>
+    <string name="rehras_title">rhrwis swihb</string>string>
+    <string name="sohila_title">soihlw swihb</string>string>
+    <string name="ardaas_title">Ardws</string>string>
+</resources>
